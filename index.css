@@ -1,0 +1,9 @@
+#pronouns-div {
+    display: inline-flex;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#pronouns-div > p {
+    margin: 0 auto;
+}
