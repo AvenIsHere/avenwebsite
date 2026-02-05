@@ -1,0 +1,6 @@
+[submodule "public/badLoginPage"]
+	path = public/badLoginPage
+	url = https://github.com/AvenIsHere/bad-login-page.git
+[submodule "badLoginPage"]
+	path = badLoginPage
+	url = https://github.com/AvenIsHere/bad-login-page.git
