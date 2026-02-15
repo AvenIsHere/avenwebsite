@@ -1,3 +1,16 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#content {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+}
+
 #pronouns-div {
     display: inline-flex;
     padding: 5px;
