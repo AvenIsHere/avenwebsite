@@ -4,3 +4,6 @@
 [submodule "badLoginPage"]
 	path = badLoginPage
 	url = https://github.com/AvenIsHere/bad-login-page.git
+[submodule "WebDevWebsite"]
+	path = WebDevWebsite
+	url = https://github.com/AvenIsHere/Web-Dev-Coursework-Semester-1.git
