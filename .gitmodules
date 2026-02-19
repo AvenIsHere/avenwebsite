@@ -7,3 +7,7 @@
 [submodule "WebDevWebsite"]
 	path = WebDevWebsite
 	url = https://github.com/AvenIsHere/Web-Dev-Coursework-Semester-1.git
+[submodule "WebDevCoursework"]
+	path = WebDevCoursework
+	url = https://github.com/AvenIsHere/Web-Dev-Coursework-Semester-1.git
+	branch = cloudflare-pages
